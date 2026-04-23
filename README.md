@@ -3,9 +3,9 @@
 
 ## Syllabus
 
- - [ ]  Module 1: Fundamental Concepts of Computer Programming
- - [ ] Module 2: UML and Design Patterns
- - [ ] Module 3: Fundamentals of Java Language
+ - [x]  Module 1: Fundamental Concepts of Computer Programming April 20 & 23, 2026
+ - [-] Module 2: UML and Design Patterns
+ - [x] Module 3: Fundamentals of Java Language April 23, 2026
  - [ ] Module 4: Java Operators
  - [ ] Module 5: Control Structures and Array
  - [ ] Module 6: Object Oriented Programming Concepts
